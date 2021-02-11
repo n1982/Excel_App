@@ -1,0 +1,27 @@
+{
+  "name": "excel_app",
+  "version": "1.0.0",
+  "description": "First app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1982/Excel_App.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Nick Selivanov & Vladilen Minin <nick.selivanov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n1982/Excel_App/issues"
+  },
+  "homepage": "https://github.com/n1982/Excel_App#readme",
+  "private": true,
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
