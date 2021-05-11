@@ -1,3 +1,3 @@
-import './scss/index.scss'
+import './scss/index.scss';
 
-console.log('Privet world')
+console.log('Hello world from arr.js');
