@@ -1,3 +1,3 @@
-import './scss/index.scss';
+import "./scss/index.scss";
 
-console.log('Hello world from arr.js');
+console.log("Hello world from app.js");
